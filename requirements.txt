@@ -1,0 +1,2 @@
+
+requests # No version defined to avoid messing with the user environment. Any version should be ok.

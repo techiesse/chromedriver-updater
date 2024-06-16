@@ -20,6 +20,8 @@ Other than that the only external dependency is lib `requests`.
 
 So make sure to `pip install requests`.
 
+`pip install -r requirements.txt` will also work.
+
 This tool was designed to be used with the system Python interpreter. That requires to install requests globally, which many people don't like. I don't mind doing it because I use requests for other puposes as well. If you don't like this approach feel free to create and use a virtual environment.
 
 ## Linux
